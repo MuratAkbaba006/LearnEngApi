@@ -1,0 +1,30 @@
+[
+    {"Question":"Gökyüzü ne renktir?","Answer":"Blue","Questionid":"1","AnswerLength":"4","Level":"Beginner"},
+    {"Question":"Bitkiler sonbaharda hangi renk olur?","Answer":"Brown","Questionid":"2","AnswerLength":"5","Level":"Beginner"},
+    {"Question":"Günes hangi renktir?","Answer":"Yellow","Questionid":"3","AnswerLength":"6","Level":"Beginner"},
+    {"Question":"Hoscakal!!","Answer":"Goodbye","Questionid":"4","AnswerLength":"7","Level":"Beginner"},
+    {"Question":"Günaydin","Answer":"Goodmorning","Questionid":"5","AnswerLength":"11","Level":"Beginner"},
+    {"Question":"Merhaba","Answer":"Hello","Questionid":"6","AnswerLength":"5","Level":"Beginner"},
+
+    {"Question":"Ingiliz","Answer":"English","Questionid":"7","AnswerLength":"7","Level":"Elementary"},
+    {"Question":"Alman","Answer":"German","Questionid":"8","AnswerLength":"6","Level":"Elementary"},   
+    {"Question":"Irlandali","Answer":"Irish","Questionid":"9","AnswerLength":"5","Level":"Elementary"},
+    {"Question":"Bir yarista ikinciyi geçen kacinci olur","Answer":"Second","Questionid":"10","AnswerLength":"6","Level":"Elementary"},
+    {"Question":"Oy kullanma yasi","Answer":"Eighteen","Questionid":"11","AnswerLength":"8","Level":"Elementary"},
+    {"Question":"Pahali","Answer":"Expensive","Questionid":"12","AnswerLength":"9","Level":"Elementary"},
+
+    {"Question":"Tartismak","Answer":"Argue","Questionid":"13","AnswerLength":"5","Level":"Intermediate"},
+    {"Question":"Rezervasyon yapmak ","Answer":"Book","Questionid":"14","AnswerLength":"4","Level":"Intermediate"},
+    {"Question":"Ödünç Almak","Answer":"Barrow","Questionid":"15","AnswerLength":"6","Level":"Intermediate"},
+    {"Question":"Hesaplamak","Answer":"Calculate","Questionid":"16","AnswerLength":"9","Level":"Intermediate"},
+    {"Question":"Karsilastirmak","Answer":"Compare","Questionid":"17","AnswerLength":"7","Level":"Intermediate"},
+    {"Question":"Tanimlamak","Answer":"Describe","Questionid":"18","AnswerLength":"9","Level":"Intermediate"},
+
+    {"Question":"Dengelemek","Answer":"Balance","Questionid":"19","AnswerLength":"7","Level":"Advanced"},
+    {"Question":"Dallanmak","Answer":"Branch","Questionid":"20","AnswerLength":"6","Level":"Advanced"},
+    {"Question":"Cesaretlendirmek","Answer":"Encourage","Questionid":"21","AnswerLength":"9","Level":"Advanced"},                
+    {"Question":"Horlamak","Answer":"Snore","Questionid":"22","AnswerLength":"5","Level":"Advanced"},
+    {"Question":"Tavsiye vermek","Answer":"Suggest","Questionid":"23","AnswerLength":"7","Level":"Advanced"},
+    {"Question":"Gözden kaybolmak","Answer":"Vanish","Questionid":"24","AnswerLength":"6","Level":"Advanced"}
+    
+]
